@@ -23,23 +23,16 @@ CS50 SQL teaches how to create, read, update, and delete data with relational da
 ## 🗂️ Repository Structure
 ```
 .
-├── lectures/
-│   ├── 0-querying/
-│   ├── 1-relating/
-│   ├── 2-designing/
-│   ├── 3-writing/
-│   ├── 4-viewing/
-│   ├── 5-optimizing/
-│   └── 6-scaling/
 ├── problem-sets/
 │   ├── pset0/
 │   │   ├── cyberchase/
-│   │   ├── 36-views/
-│   │   └── players/
+│   │   ├── normals/
+│   │   ├── players/
+│   │   └── views/
 │   ├── pset1/
-│   │   ├── packages-please/
 │   │   ├── dese/
-│   │   └── moneyball/
+│   │   ├── moneyball/
+│   │   └── packages-please/
 │   ├── pset2/
 │   │   ├── atl/
 │   │   ├── happy-to-connect/
@@ -48,9 +41,9 @@ CS50 SQL teaches how to create, read, update, and delete data with relational da
 │   │   ├── dont-panic/
 │   │   └── meteorite-cleaning/
 │   ├── pset4/
+│   │   ├── bed-and-breakfast/
 │   │   ├── census-taker/
-│   │   ├── the-private-eye/
-│   │   └── bed-and-breakfast/
+│   │   └── the-private-eye/
 │   ├── pset5/
 │   │   ├── in-a-snap/
 │   │   └── your-harvard/
